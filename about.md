@@ -1,15 +1,14 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
+tags: about
 ---
 
-Some information about you!
+I am Hammas Hamzah Kuddah. I'm trying to solve some problems to make world a better place. I'm particularly interested with computer vision.
 
-### More Information
+This page will be updated with my publications and projects. My academic blog post will be posted in [here](hammashamzah.github.io) too.
 
-A place to include any other types of information that you'd like to include about yourself.
+My Curriculum Vitae in PDF can be accessed [here](http://hammashamzah.github.io).
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Thank you for stopping by!
